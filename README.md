@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# Intro-to-html
-=======
 # Intro-to-html
 
 <h1>Project List</h1>
